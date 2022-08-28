@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 14, 2020 at 12:51 PM
+-- Generation Time: Aug 01, 2022 at 12:51 PM
 -- Server version: 10.4.6-MariaDB
 -- PHP Version: 7.3.9
 
@@ -40,8 +40,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `user_name`, `password`, `name`) VALUES
-(3, 'ela', '202cb962ac59075b964b07152d234b70', 'Ela'),
-(4, 'elias', '202cb962ac59075b964b07152d234b70', 'elias');
+(3, 'aka', '202cb962ac59075b964b07152d234b70', 'Aka'),
+(4, 'Akash', '202cb962ac59075b964b07152d234b70', 'Akash');
 
 --
 -- Indexes for dumped tables
